@@ -1,0 +1,38 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "imagePath": "https://www.ezyka.com/ezyka_uploads/2018/07/potato-min.jpg",
+    "name": "Potatoes"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "imagePath": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/03/15/931/524/694940094001_6014490250001_6014489408001-vs.jpg?ve=1&tl=1",
+    "name": "Eggs"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "imagePath": "https://grist.files.wordpress.com/2009/09/tomato.jpg",
+    "name": "Tomatoes"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "imagePath": "https://imageresizer.static9.net.au/WWeKfQSu3idn7gziqPukoJ1j-a4=/600x338/smart/http%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2FNetwork%2FImages%2F2017%2F06%2F20%2F08%2F23%2F170620coach_capsicum.jpg",
+    "name": "Bell Pepper"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "imagePath": "https://www.ageold.com/wp-content/uploads/2016/01/Dollarphotoclub_55631648-a.jpg",
+    "name": "Onions"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "imagePath": "https://i.redd.it/pd182seu04h21.jpg",
+    "name": "Cheese"
+  },
+]
